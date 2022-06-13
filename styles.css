@@ -35,7 +35,7 @@ body {
     font-family: "Comic Sans MS", Comic Sans, cursive; 
  }
 
-p {
+#bake {
     color: blueviolet;
     display: block;
     margin: 8px;
