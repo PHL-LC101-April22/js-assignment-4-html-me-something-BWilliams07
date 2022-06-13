@@ -15,7 +15,7 @@ body {
    width: 25%;
  }
 
-mainHeading {
+#mainHeading {
    color: red;
    display: block;
    margin: 25px;
@@ -45,7 +45,7 @@ p {
     font-family: "Comic Sans MS", Comic Sans, cursive; 
  }
 
- h1 {
+ h2 {
    color: rgb(65, 158, 189);
     display: block;
     margin: 25px;
@@ -56,7 +56,7 @@ p {
     font-family: "Papyrus", Fantasy;
  }
 
- h2 {
+ h3 {
     color: rgb(65, 158, 189);
     display: block;
     margin: 25px;
@@ -67,7 +67,7 @@ p {
     font-family: "Papyrus", Fantasy;
  }
 
- h3 {
+ h4 {
    color: rgb(65, 158, 189);
    display: block;
    margin: 25px;
