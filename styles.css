@@ -1,6 +1,6 @@
 /* Write your CSS here! */
 body {
-   background-image: url('../js-assignment-4-html-me-something-BWilliams07/Images/baking.jpg');
+   background-image: url("images/baking.jpg");
    text-align: center;
  }
 
