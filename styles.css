@@ -17,9 +17,6 @@ body {
 
 mainHeading {
    color: red;
-   text-shadow:
-   0 0 5px rgb(250, 171, 207), 0 0 10px rgb(0, 132, 255),
-   0 0 20px hotpink, 0 0 40px hotpink;
    display: block;
    margin: 25px;
    text-align: center;
