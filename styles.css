@@ -1,1 +1,152 @@
 /* Write your CSS here! */
+body {
+   background-image: url('../js-assignment-4-html-me-something-BWilliams07/Images/Baking.jpg');
+   text-align: center;
+ }
+
+ div {
+    padding: 25px;
+  }
+
+  .center {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 25%;
+ }
+
+mainHeading {
+   color: red;
+   text-shadow:
+   0 0 5px rgb(250, 171, 207), 0 0 10px rgb(0, 132, 255),
+   0 0 20px hotpink, 0 0 40px hotpink;
+   display: block;
+   margin: 25px;
+   text-align: center;
+   font-size: 80px;  
+   font-weight: bold; 
+   font-family: "Brush Script MT", Brush Script Std, cursive;
+}
+
+testP.funParagraph {
+    color: green;
+    display: block;
+    margin: 8px;
+    text-align: center;
+    font-size: 16px; 
+    font-weight: bold;
+    font-family: "Comic Sans MS", Comic Sans, cursive; 
+ }
+
+p {
+    color: blueviolet;
+    display: block;
+    margin: 8px;
+    text-align: center;
+    font-size: 16px; 
+    font-weight: bold; 
+    font-family: "Comic Sans MS", Comic Sans, cursive; 
+ }
+
+ h1 {
+   color: rgb(65, 158, 189);
+    display: block;
+    margin: 25px;
+    text-align: center;
+    font-size: 45px; 
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: "Papyrus", Fantasy;
+ }
+
+ h2 {
+    color: rgb(65, 158, 189);
+    display: block;
+    margin: 25px;
+    text-align: center;
+    font-size: 45px; 
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: "Papyrus", Fantasy;
+ }
+
+ h3 {
+   color: rgb(65, 158, 189);
+   display: block;
+   margin: 25px;
+   text-align: center;
+   font-size: 45px; 
+   font-weight: bold;
+   text-decoration: underline; 
+   font-family: "Papyrus", Fantasy;
+}
+
+.shimmer {
+   display: inline-block;
+   color:white;
+   background: rgb(1, 163, 227) -webkit-gradient(linear, 100% 0, 0 0, from(#acacac), color-stop(0.5, #ffffff), to(#acacac));
+   background-position: -4rem top; /*50px*/
+   background-repeat: no-repeat;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   -webkit-animation-name: shimmer;
+   -webkit-animation-duration: 2.2s;
+   -webkit-animation-iteration-count: infinite;
+   -webkit-background-size: 4rem 100%; /*50px*/
+ }
+ @-webkit-keyframes shimmer {
+     0% {
+         background-position: -4rem top; /*50px*/
+     }
+     70% {
+         background-position: 12.5rem top; /*200px*/
+     }
+     100% {
+         background-position: 12.5rem top; /*200px*/
+     }
+ }
+
+ol {
+   color: red;
+   display: block;
+   margin: 8px;
+   text-align: center;
+   font-size: 20px; 
+   font-weight: bold;
+   font-family: "Papyrus", Fantasy;
+}
+
+ .text1 {
+   color: red;
+   display: block;
+   margin: 8px; 
+   text-align: center;
+   font-size: 16px; 
+   font-weight: bold;
+   font-family: "Comic Sans MS", Comic Sans, cursive 
+ }
+
+  #theend {
+   color: rgb(247, 149, 4);
+   display: block;
+   margin: 8px;
+   text-align: center;
+   font-size: 16px; 
+   font-weight: bold;
+   font-family: "Comic Sans MS", Comic Sans, cursive; 
+ }
+
+ #foot {
+  color: red;
+  text-shadow:
+  0 0 5px rgb(250, 171, 207), 0 0 10px rgb(0, 132, 255),
+   0 0 20px hotpink, 0 0 40px hotpink;
+   display: block;
+   margin: 8px;
+   text-align: left;
+   font-size: 25px;  
+   font-weight: bold; 
+   font-family: "Brush Script MT", Brush Script Std, cursive;
+}
+
+ 
